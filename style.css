@@ -8,9 +8,12 @@ body{
     font-family: "Inter", sans-serif;
     line-height: 2rem;
 }
-
-h5{
+h1{
+    font-size: 20px;
+}
+h2{
     color: hsl(75, 94%, 57%);
+    font-size: 14px;
 }
 p{
     font-size: 14px;
