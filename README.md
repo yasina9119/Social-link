@@ -37,7 +37,7 @@ It displays all your important social media links in a clean, simple, and modern
 _Add a screenshot here if you want (optional)._
 
 ---
-![Social Link Screenshot](./screenshot.png)
+![Social Link Screenshot](./Screenshot.png)
 ## 🚀 How to Use
 
 1. Clone this repository:
